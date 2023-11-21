@@ -253,7 +253,8 @@
       }
     ],
     "uniqCompNum": 0,
-    "imageResize": true
+    "imageResize": true,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
